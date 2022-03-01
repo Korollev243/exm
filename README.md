@@ -10,5 +10,6 @@ scanf("%d"&x);
 printf("Введите число ln:/n");
 scanf("%d"&ln);
 y=ln*x;
+y=y*2;
 getchar 0;
 }
